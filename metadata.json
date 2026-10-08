@@ -1,0 +1,6 @@
+{
+  "name": "Vanderlyn Botanical Atelier",
+  "description": "Luxury South African floral boutique featuring bespoke botanical arrangements, corporate styling, weekly flower subscriptions, and same-day delivery across Gauteng and Western Cape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
